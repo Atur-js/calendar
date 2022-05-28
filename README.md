@@ -7,7 +7,7 @@ Also you can get events from calendar.
 I use Google api for this project. You can create and use your client id and api key
 from (https://console.cloud.google.com).
 
-
+it's better to use chrome and main google account for login.
 
 
 
